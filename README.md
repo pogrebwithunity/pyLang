@@ -4,9 +4,19 @@ How to start?????
 3. cmd > py inpret.py file.pyLang
 
 Commands?????
-1. var = num
-2. var2 = num2
-3. var3 = var + var2
-4. print var3
+Print num + num:
+   var = 10
+   var2 = 5
+   var3 = var + var2
+   print var3
 
-1.help
+  Output: 15
+
+Don't print num + num:
+  var = num
+  print var + var
+
+  Output: ERROR
+  
+Get Commands:
+   help
